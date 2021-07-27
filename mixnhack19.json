@@ -5,7 +5,7 @@
         "database" : "vrem"
     },
     "server" : {
-        "documentRoot" : "../vre-mixnhack19",
+        "documentRoot" : "data",
         "port" : 4567
     },
     "cineast": {
