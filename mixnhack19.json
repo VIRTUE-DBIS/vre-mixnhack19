@@ -6,7 +6,7 @@
     },
     "server" : {
         "documentRoot" : "data",
-        "port" : 4567
+        "port" : 4545
     },
     "cineast": {
         "host": "127.0.0.1",
